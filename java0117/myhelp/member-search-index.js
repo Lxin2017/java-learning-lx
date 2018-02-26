@@ -1,0 +1,1 @@
+memberSearchIndex = [{"l":"getMax(int[])","h":"","u":""},{"l":"getMin(int[])","h":"","u":""}]
