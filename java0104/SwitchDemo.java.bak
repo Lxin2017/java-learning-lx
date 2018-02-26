@@ -1,0 +1,24 @@
+class  SwichDemo
+{
+	public static void main(String[] args) 
+	{
+		int x = 2;
+		switch(x)//只执行byte short int char类型
+		{
+		case 1:
+			System.out.println("a");
+		    break;
+		case 4:
+			System.out.println("b");
+		    break;
+		case 5:
+			System.out.println("c");
+		    break;
+		default:	
+			System.out.println("d");
+		    break;
+		 }
+			
+		System.out.println("Hello World!");
+	}
+}
